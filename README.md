@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- I'm looking for my first junior dev experience
+- Web developer front end, react, react navite and angular
 - Studying systems analysis and development
 - I'm passionate about development
-- I want to become a JAVA, and Web developer
+
 
 <div>
   <a href="https://github.com/JosiasRP18">
