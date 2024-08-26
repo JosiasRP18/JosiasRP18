@@ -4,8 +4,6 @@
 
 Here are some ideas to get you started:
 
-Aqui está a tradução:
-
 - Front-End Developer.
 - Skills: Angular, React, and OutSystems.
 - Graduated in Systems Analysis and Development.
@@ -34,8 +32,8 @@ Aqui está a tradução:
   <a href = "mailto:joo.ramos08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/josias-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-### 📊 Estatísticas no GitHub:
-<a href="https://github.com/0rfreitas">
+### 📊 Statistics on GitHub:
+<a href="https://github.com/JosiasRP18">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JosiasRP18&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
 </a>
 
