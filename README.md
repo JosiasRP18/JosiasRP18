@@ -4,9 +4,11 @@
 
 Here are some ideas to get you started:
 
-- Web developer front end, react, react navite and angular
-- Studying systems analysis and development
-- I'm passionate about development
+Aqui está a tradução:
+
+- Front-End Developer.
+- Skills: Angular, React, and OutSystems.
+- Graduated in Systems Analysis and Development.
 
 
 <div>
@@ -31,5 +33,10 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/jooramos18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joo.ramos08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/josias-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+### 📊 Estatísticas no GitHub:
+<a href="https://github.com/0rfreitas">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JosiasRP18&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
+</a>
 
 </div>
